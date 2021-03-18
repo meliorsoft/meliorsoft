@@ -4,7 +4,7 @@ Hello, I’m <b>@meliorsoft</b>
 I also have some knowledge of Adobe Photoshop and UX/UI principles :)
 <br />I mostly work on projects as a Full-Stack Web Developer.
 <br />
-<b>I love to code!</b><br />
+<br /><b>I love to code!</b><br />
 I love mountains!<br />
 I like to ride a bike (200k brevet)!<br />
 I like to run (23. Ljubljana Half marathon)!<br />
